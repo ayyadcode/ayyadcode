@@ -96,7 +96,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://raw.githubusercontent.com/ayyadcode/ayyadcode/f0fcf36c55f84d3019d0578b67a4190e6e351339/assets/quote.svg"  />
+  <img height="380" src="[https://raw.githubusercontent.com/ayyadcode/ayyadcode/f0fcf36c55f84d3019d0578b67a4190e6e351339/assets/quote.svg](https://github.com/ayyadcode/ayyadcode/blob/main/assets/quote.gif?raw=true)"  />
 </div>
 
 ###
